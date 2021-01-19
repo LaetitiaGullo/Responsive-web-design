@@ -1,13 +1,13 @@
 # Responsive web design using CSS media queries
 
 ### URL of the project :
-Upcoming
+https://laetitiagullo.github.io/Responsive-web-design/
 
 ### Date of realization :
 January 2021
 
 ### Status :
-In progress
+Completed project
 
 ### Type of project :
 Exercise
