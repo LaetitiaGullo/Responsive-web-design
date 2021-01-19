@@ -25,4 +25,6 @@ Project carried out as part of the "Junior web developer" training [@ BeCode](ht
 [Click here](https://github.com/becodeorg/LIE-Jepsen-4.27/tree/master/01-the-field/04-html-css/02-css/04-responsive)
 
 ### Images of the project :
-Upcoming
+![Screenshot of the project](Screen1.png)
+![Screenshot of the project](Screen2.png)
+![Screenshot of the project](Screen3.png)
